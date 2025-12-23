@@ -14,7 +14,7 @@ The hardware integrates a DHT11 (Temp/Humidity) and BMP-280 (Pressure) sensor hu
 
 | Circuit Simulation |
 | --- |
-| ![Prototype](images/schematic_prototype.jpg) |
+| <img src="images/schematic_prototype.png" width="400" align="center"> |
 | *Figure 1: Prototype circuits simulation for connection demonstration.* |
 
 ---
@@ -45,7 +45,7 @@ The system achieved an accuracy of **84.15%**. The high AUC scores indicate that
 
 | Confusion Matrix | AUC Curve |
 | --- | --- |
-| <img src="images/confusion_matrix.png" width="300"> | <img src="images/auc_curve.png" width="300"> |
+| <img src="images/confusion_matrix.png" width="300" align="center"> | <img src="images/auc_curve.png" width="300" align="center"> |
 | *Figure 5: Confusion matrix showing prediction accuracy.* | *Figure 6: AUC curve for the four predicted weather classes.* |
 
 ---
