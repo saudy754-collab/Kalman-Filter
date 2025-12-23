@@ -70,4 +70,4 @@ This repository is standalone for the Arduino environment. You do not need Pytho
 
 ## ✉️ Contact
 
-**Mohamed Ashraf** - [saudy754@gmail.com] - Sharkya STEM School, Egypt.
+**Mohamed Ashraf** - [saudy754@gmail.com] - Ain Shams University, Egypt.
