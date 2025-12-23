@@ -14,7 +14,7 @@ The hardware integrates a DHT11 (Temp/Humidity) and BMP-280 (Pressure) sensor hu
 
 | Circuit Simulation |
 | --- |
-| ![Prototypw](images/schematic_prototype.png) |
+| ![Prototype](images/schematic_prototype.png) |
 | *Figure 1: Prototype circuits simulation for connection demonstration.* |
 
 ---
