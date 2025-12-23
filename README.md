@@ -45,7 +45,7 @@ The system achieved an accuracy of **84.15%**. The high AUC scores indicate that
 
 | Confusion Matrix | AUC Curve |
 | --- | --- |
-| <img src="images/figure_1_circuit.png" width="300"> | <img src="images/prototype_build.png" width="300"> |
+| <img src="images/confusion_matrix.png" width="300"> | <img src="images/auc_curve.png" width="300"> |
 | *Figure 5: Confusion matrix showing prediction accuracy.* | *Figure 6: AUC curve for the four predicted weather classes.* |
 
 ---
